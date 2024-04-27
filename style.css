@@ -1,0 +1,32 @@
+body, html {
+    margin: 0;
+}
+body{
+    background-color: #333;
+}
+#title {
+    position: fixed;
+    top: -25px;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    z-index: 1000;
+}
+
+
+section {
+    top: 0;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+    background-color: #f2f2f2;
+    margin-top: 60px;
+    border: 5px solid #a09f9f;
+    border-radius: 15px;
+}
+img{
+    width: 1000px;
+    height: 500px;
+}
